@@ -1,0 +1,17 @@
+{
+  "name": "js-testing-fundamentals",
+  "version": "1.0.0",
+  "description": "A repo for my JavaScript Testing Fundamentals",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "test",
+    "testing",
+    "fundamentals"
+  ],
+  "author": "Matheus Souza <matheushrt@gmail.com> (https://github.com/matheushrt)",
+  "license": "MIT"
+}
